@@ -7,6 +7,7 @@ Describe : Create project SFML by Visual studio code <br>
 ## Project :
   - src : contains files source 
   - include : contains files header 
-  - debug  : contains files build and *.dll
+  - debug  : folder contains files build and *.dll
   - .visual : config
   - main.cpp : file main 
+  - obj : folder contains files object : *.o
